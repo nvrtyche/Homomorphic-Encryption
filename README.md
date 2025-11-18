@@ -1,7 +1,6 @@
 # Project Execution and Analysis Report
 
-**Course:** CS 6530 - Applied Cryptography  
-**Project:** Phase 2 - BFV and CKKS Homomorphic Encryption
+**Project:** BFV and CKKS Homomorphic Encryption
 
 ## 1. System Requirements and Installation
 
@@ -163,7 +162,4 @@ The verification check then compares these two results:
 
 The "PASS" messages in the log are the final proof that the homomorphic operations were successful.
 
-## 5. Full Execution Log Example
-
-*(Note: The full execution log example was not included in the extracted PDF text, but would typically contain sample output from running the program.)*
 
